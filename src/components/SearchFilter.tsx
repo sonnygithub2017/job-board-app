@@ -60,3 +60,4 @@ export const SearchFilter: React.FC<SearchFilterProps> = ({
   );
 };
 
+
